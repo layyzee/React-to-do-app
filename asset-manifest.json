@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/layyzee/React-to-do-app/static/css/main.39638031.css",
+    "main.js": "/layyzee/React-to-do-app/static/js/main.d12f1098.js",
+    "static/js/787.c4de1c14.chunk.js": "/layyzee/React-to-do-app/static/js/787.c4de1c14.chunk.js",
+    "index.html": "/layyzee/React-to-do-app/index.html",
+    "main.39638031.css.map": "/layyzee/React-to-do-app/static/css/main.39638031.css.map",
+    "main.d12f1098.js.map": "/layyzee/React-to-do-app/static/js/main.d12f1098.js.map",
+    "787.c4de1c14.chunk.js.map": "/layyzee/React-to-do-app/static/js/787.c4de1c14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39638031.css",
+    "static/js/main.d12f1098.js"
+  ]
+}
